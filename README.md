@@ -1,11 +1,10 @@
  ### About:
-
-~ Coder (Software Engeneer???) from Moscow. 
-
+~ Coder (Software Engeneer???) from Moscow.
+-
 ~ 16 yo, studyin' in high school.
-
+-
 ~ Drippin' rn 😮.
-
+-
 ~ .NET enjoyer from 2020.
 
 ### OS:
