@@ -1,12 +1,16 @@
  ### About:
 
-Young coder (Software Engeneer???) from Moscow. 
+~ Coder (Software Engeneer???) from Moscow. 
 
-16 yo, studyin' in high school.
+~ 16 yo, studyin' in high school.
 
-Drippin rn' 😮.
+~ Drippin' rn 😮.
 
-.NET enjoyer from 2020.
+~ .NET enjoyer from 2020.
+
+### OS:
+
+ ![Flutter](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Skills:
 ![Flutter](https://img.shields.io/badge/C%23-8F04A8?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -14,10 +18,9 @@ Drippin rn' 😮.
 ![Flutter](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Usin' & devin' for:
+ ### Also contact with me:
 
- ![Flutter](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
- ### Also follow me:
+ [![Telegram](https://img.shields.io/badge/-Telegram-4671D5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/L420Y)
+ [![Discord](https://img.shields.io/badge/-Discord-8070D8?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/717049978396082177/)
 
 
