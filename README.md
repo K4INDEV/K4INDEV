@@ -7,8 +7,8 @@
 ![Flutter](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/C%23-7109AA?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
-![Flutter](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
- ![Flutter](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Flutter](https://img.shields.io/badge/GitHub-020202?style=for-the-badge&logo=github&logoColor=white)
+ ![Flutter](https://img.shields.io/badge/-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
  ### Also contact with me:
