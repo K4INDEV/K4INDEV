@@ -9,7 +9,7 @@
 
  ### Also contact with me:
 
- [![Telegram](https://img.shields.io/badge/-Telegram-4671D5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/L420Y)
+ [![Telegram](https://img.shields.io/badge/-Telegram-4671D5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
  [![Discord](https://img.shields.io/badge/-Discord-8070D8?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/717049978396082177/)
 
 
